@@ -1,0 +1,6 @@
+C:\Users\ewingd\source\repos\NumbersStation\NumbersStation\obj\Debug\NumbersStation.csprojAssemblyReference.cache
+C:\Users\ewingd\source\repos\NumbersStation\NumbersStation\obj\Debug\NumbersStation.csproj.CoreCompileInputs.cache
+C:\Users\ewingd\source\repos\NumbersStation\NumbersStation\bin\Debug\NumbersStation.exe
+C:\Users\ewingd\source\repos\NumbersStation\NumbersStation\bin\Debug\NumbersStation.pdb
+C:\Users\ewingd\source\repos\NumbersStation\NumbersStation\obj\Debug\NumbersStation.exe
+C:\Users\ewingd\source\repos\NumbersStation\NumbersStation\obj\Debug\NumbersStation.pdb
